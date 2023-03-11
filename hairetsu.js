@@ -8,9 +8,7 @@ console.log(colors[1]);
 // 2.ループを使用して配列の中から全ての値をコンソールで表示する
 
 for (let i = 0 ; i < colors.length ; i++ ){
-
-console.log(colors[i]);
-
+  console.log(colors[i]);
 }
 
 
